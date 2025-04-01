@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on **Enseñar Github**
+- 🔭 I’m currently working on **Aprender Github**
 <br>
 <a href="http://www.madrid.org"> Página de la comunidad de Madrid</a>
 
